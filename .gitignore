@@ -1,0 +1,27 @@
+/.idea
+/.env
+.env
+/.elasticbeanstalk
+/.vscode
+.DS_Store
+local
+/etcd-passwords.txt
+console/apm_example.sh
+
+# Testing artifacts
+/mockgen
+/coverage.out
+/coverage.html
+/coverage-
+.golangci.yml
+
+# Built artifact
+/application
+/application.zip
+/version.txt
+/vendor
+/bin
+
+
+# Work files
+_download
